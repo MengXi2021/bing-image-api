@@ -131,7 +131,7 @@ export default function Home() {
                             target={"_self"}
                             rel={"noreferrer"}
                         >
-                            bing.ahdark.com
+                            bing.nextsay.cn
                         </Link>
                         <br />
                         {
