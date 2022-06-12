@@ -106,7 +106,7 @@ export default function Home() {
                             underline={"hover"}
                             target={"_blank"}
                         >
-                            github.com/AH-dark/BingImageApi
+                            github.com/AH-dark/BingImageApi 本API由AH-dark制作，大家可以在前面的仓库给他一个star支持一下~
                         </Link>
                     </Typography>
                     <Divider />
@@ -124,10 +124,10 @@ export default function Home() {
                         {"CDN"}
                     </Typography>
                     <Typography variant={"body1"} component={"p"}>
-                        {"你可以使用AHdark部署的带有CDN的函数"}
+                        {"你可以使用DogeStatic Flash加速服务调用API"}
                         <br />
                         <Link
-                            href={"https://bing.ahdark.com"}
+                            href={"https://bing.nextsay.cn"}
                             target={"_self"}
                             rel={"noreferrer"}
                         >
@@ -135,7 +135,7 @@ export default function Home() {
                         </Link>
                         <br />
                         {
-                            "此站点使用腾讯云CDN、CloudFront CDN进行边缘网络加速，给予用户更好的体验。"
+                            "此站点使用腾讯云CDN进行边缘网络加速，给予用户更好的体验(也许)。"
                         }
                     </Typography>
                 </Paper>
